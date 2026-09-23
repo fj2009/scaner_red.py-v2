@@ -1,5 +1,8 @@
 # scaner_red.py-v2
 
+<img width="953" height="1016" alt="Captura desde 2026-09-23 11-37-29" src="https://github.com/user-attachments/assets/1bd9b5cc-f398-435d-bd13-ca324addfd41" />
+<img width="953" height="1016" alt="Captura desde 2026-09-23 11-37-13" src="https://github.com/user-attachments/assets/45392a73-1420-4722-8d6b-94846eee0366" />
+
 Auditoría de red automatizada para entornos **autorizados** (laboratorio propio / pentest autorizado). Envuelve Nmap (vía `python-nmap`) en un pipeline de 4 fases: descubrimiento de hosts, escaneo de puertos y servicios, detección de SO y análisis de vulnerabilidades.
 
 ## Requisitos
